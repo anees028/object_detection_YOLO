@@ -12,3 +12,7 @@ The goal of this project is to detect and track players, referees, and footballs
 2. Add the input video in the **input_video** folder.
 
 3. Write the object detection code by creating a **yolo_inference.py** file with project directory. And run the file. 
+
+4. Create a new file **football_training_yolo_v5.ipynb** for downloading the data set from *roboflow*. And run the file.
+
+5. And for training the model use COLAB, later then download and add the model into *Models* folder
